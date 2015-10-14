@@ -6,6 +6,11 @@ Ember data expectations when it comes to POST, GET, PUT, DELETE  request and ret
  * Have the backend do all the work if possible
  * Use default functionality of the framework
  * 
+ 
+### Showcase (Important points)
+* What is the success response format does Ember-data expect
+* what is the error response format does Ember-data expect
+* Best practices on how to display user friendly error information
 
 ### Product sample
 We are building a simple question answering system called **WHY**.
