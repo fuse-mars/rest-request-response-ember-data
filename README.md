@@ -6,3 +6,9 @@ Ember data expectations when it comes to POST, GET, PUT, DELETE  request and ret
  * Have the backend do all the work if possible
  * Use default functionality of the framework
  * 
+
+### Product sample
+We are building a simple question answering system called **WHY**.
+* User asks a question "why is Machine learning important?"
+* The system replies with "Because it enhance the quality of our lives" [Forbes](http://www.forbes.com/sites/teradata/2015/07/16/why-machine-learning-is-the-next-penicillin/)
+
